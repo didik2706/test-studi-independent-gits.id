@@ -14,5 +14,7 @@ func main() {
 		fmt.Println("Hello")
 	} else if value%5 == 0 {
 		fmt.Println("World")
+	} else {
+		fmt.Println("bilangan tidak habis di bagi 5 dan 3")
 	}
 }
